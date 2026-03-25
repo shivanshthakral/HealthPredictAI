@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1, "name": "Dr. Ananya Verma", "specialization": "Internal Medicine",
+    "clinic": "City Care Clinic", "address": "123 Medical Street, City Center",
+    "phone": "+91-9876543210", "email": "ananya.verma@clinic.com",
+    "distance_km": 1.2, "rating": 4.8, "experience_years": 12,
+    "consultation_fee": 800, "languages": ["English", "Hindi"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["09:00", "10:00", "11:00", "14:00", "15:00"],
+      "2026-03-17": ["10:00", "11:30", "14:00"],
+      "2026-03-18": ["09:00", "10:00", "15:00", "16:00"],
+      "2026-03-19": ["09:30", "11:00", "14:30"],
+      "2026-03-20": ["10:00", "11:00", "14:00", "15:30"]
+    }
+  },
+  {
+    "id": 2, "name": "Dr. Rohan Patel", "specialization": "Cardiologist",
+    "clinic": "Heart & Vascular Center", "address": "456 Health Avenue, Downtown",
+    "phone": "+91-9822113344", "email": "rohan.patel@heartcenter.com",
+    "distance_km": 3.8, "rating": 4.9, "experience_years": 15,
+    "consultation_fee": 1500, "languages": ["English", "Hindi", "Gujarati"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["11:00", "12:00", "16:00"],
+      "2026-03-17": ["09:00", "10:30", "14:00", "15:00"],
+      "2026-03-19": ["11:00", "14:00", "16:30"],
+      "2026-03-20": ["09:00", "10:00", "11:00"]
+    }
+  },
+  {
+    "id": 3, "name": "Dr. Priya Sharma", "specialization": "General Physician",
+    "clinic": "Wellness Clinic", "address": "789 Wellness Road, Suburb",
+    "phone": "+91-9765432109", "email": "priya.sharma@wellness.com",
+    "distance_km": 2.5, "rating": 4.7, "experience_years": 8,
+    "consultation_fee": 600, "languages": ["English", "Hindi", "Bengali"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["09:00", "10:00", "11:00", "12:00", "14:00", "15:00", "16:00"],
+      "2026-03-17": ["09:00", "10:00", "11:00", "14:00", "15:00"],
+      "2026-03-18": ["09:00", "10:00", "14:00", "16:00"],
+      "2026-03-19": ["10:00", "11:00", "14:00", "15:00", "16:00"],
+      "2026-03-20": ["09:00", "10:00", "11:00", "14:00"]
+    }
+  },
+  {
+    "id": 4, "name": "Dr. Vikram Singh", "specialization": "Pulmonologist",
+    "clinic": "Respiratory Care Center", "address": "321 Breath Street, Medical District",
+    "phone": "+91-9988776655", "email": "vikram.singh@respiratory.com",
+    "distance_km": 4.2, "rating": 4.6, "experience_years": 10,
+    "consultation_fee": 1200, "languages": ["English", "Hindi", "Punjabi"],
+    "video_consultation": false,
+    "available_slots": {
+      "2026-03-16": ["09:00", "11:00", "14:00"],
+      "2026-03-18": ["10:00", "11:00", "15:00"],
+      "2026-03-20": ["09:00", "10:00", "14:00", "16:00"]
+    }
+  },
+  {
+    "id": 5, "name": "Dr. Meera Desai", "specialization": "Pediatrician",
+    "clinic": "Children's Health Center", "address": "654 Kids Avenue, Family District",
+    "phone": "+91-9876543211", "email": "meera.desai@childrens.com",
+    "distance_km": 1.8, "rating": 4.9, "experience_years": 14,
+    "consultation_fee": 900, "languages": ["English", "Hindi", "Marathi"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["09:00", "10:30", "11:30", "14:00", "15:00"],
+      "2026-03-17": ["09:00", "10:00", "14:00", "15:00"],
+      "2026-03-19": ["10:00", "11:00", "14:00", "16:00"],
+      "2026-03-20": ["09:00", "10:00", "11:00", "14:00", "15:00"]
+    }
+  },
+  {
+    "id": 6, "name": "Dr. Arjun Nair", "specialization": "Dermatologist",
+    "clinic": "Skin & Wellness Clinic", "address": "12 Glow Street, Koramangala",
+    "phone": "+91-9900112233", "email": "arjun.nair@skincare.com",
+    "distance_km": 2.1, "rating": 4.7, "experience_years": 9,
+    "consultation_fee": 1000, "languages": ["English", "Malayalam", "Kannada"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-17": ["10:00", "11:00", "14:00", "15:00"],
+      "2026-03-18": ["09:00", "10:00", "16:00"],
+      "2026-03-19": ["11:00", "14:00"],
+      "2026-03-20": ["09:00", "10:30", "14:00", "15:00"]
+    }
+  },
+  {
+    "id": 7, "name": "Dr. Sneha Iyer", "specialization": "Gynecologist",
+    "clinic": "Women's Health Hub", "address": "45 Care Road, T. Nagar",
+    "phone": "+91-9445566778", "email": "sneha.iyer@womenshealth.com",
+    "distance_km": 3.0, "rating": 4.8, "experience_years": 12,
+    "consultation_fee": 1100, "languages": ["English", "Tamil", "Telugu"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["09:00", "10:00", "14:00", "15:00"],
+      "2026-03-17": ["11:00", "14:00", "16:00"],
+      "2026-03-18": ["09:00", "10:00", "15:00"],
+      "2026-03-19": ["10:00", "14:00", "16:00"]
+    }
+  },
+  {
+    "id": 8, "name": "Dr. Ramesh Gupta", "specialization": "Neurologist",
+    "clinic": "Brain & Spine Clinic", "address": "88 Neural Lane, Medical Hub",
+    "phone": "+91-9821234567", "email": "ramesh.gupta@neuro.com",
+    "distance_km": 5.3, "rating": 4.8, "experience_years": 18,
+    "consultation_fee": 1800, "languages": ["English", "Hindi"],
+    "video_consultation": false,
+    "available_slots": {
+      "2026-03-17": ["10:00", "14:00"],
+      "2026-03-19": ["11:00", "15:00"],
+      "2026-03-20": ["09:00", "10:00", "14:00"]
+    }
+  },
+  {
+    "id": 9, "name": "Dr. Lakshmi Reddy", "specialization": "Endocrinologist",
+    "clinic": "Diabetes & Thyroid Center", "address": "22 Sugar Lane, Banjara Hills",
+    "phone": "+91-9966778899", "email": "lakshmi.reddy@endo.com",
+    "distance_km": 4.5, "rating": 4.9, "experience_years": 16,
+    "consultation_fee": 1400, "languages": ["English", "Telugu", "Hindi"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-16": ["11:00", "14:00", "16:00"],
+      "2026-03-18": ["09:00", "10:00", "14:00"],
+      "2026-03-20": ["10:00", "11:00", "15:00"]
+    }
+  },
+  {
+    "id": 10, "name": "Dr. Santosh Kumar", "specialization": "Gastroenterologist",
+    "clinic": "Digestive Health Center", "address": "66 Gut Lane, Civil Lines",
+    "phone": "+91-9812345678", "email": "santosh.kumar@gastro.com",
+    "distance_km": 3.6, "rating": 4.6, "experience_years": 11,
+    "consultation_fee": 1300, "languages": ["English", "Hindi"],
+    "video_consultation": true,
+    "available_slots": {
+      "2026-03-17": ["09:00", "10:00", "14:00", "16:00"],
+      "2026-03-19": ["10:00", "11:00", "15:00"],
+      "2026-03-20": ["09:00", "14:00", "15:30"]
+    }
+  }
+]

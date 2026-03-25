@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "mluej0sxce3eoum096f",
+      "name": "Sid",
+      "email": "sid12@gmail.com",
+      "password": "$2a$10$d5XPVQ8urkanudB8AsBrjudR46OHVQIz7lk2qcggkn/pMOxWauWBu",
+      "role": "patient",
+      "createdAt": "2026-02-20T04:40:26.577Z",
+      "profile": {}
+    },
+    {
+      "id": "mlufzlol4irmwhjp9d9",
+      "name": "Vaibhav",
+      "email": "vaibhav12@gmail.com",
+      "password": "$2a$10$ttDGtQGcCMZ1Xv0ieRSk/eYAvk5P12KDvzJgKto..CFsZNZGbIqZ6",
+      "role": "patient",
+      "createdAt": "2026-02-20T05:21:19.749Z",
+      "profile": {}
+    },
+    {
+      "id": "mm3h3zxvph3vx4x5b8",
+      "name": "shivansh",
+      "email": "shivanshthakral03@gmail.com",
+      "password": "$2a$10$5RBpuwBpf5GQbm.1s0yMaONaCB5taW7tZYObuEIcNxfo.A5LwEueS",
+      "role": "patient",
+      "createdAt": "2026-02-26T13:02:40.051Z",
+      "profile": {}
+    },
+    {
+      "id": "mm5sx557fz05mwrr8ea",
+      "name": "Shivansh",
+      "email": "st123@gmail.com",
+      "password": "$2a$10$RC.P7NLv.3o7xi.x/7BA7.bIeyMDNVx61BwI4r4Ko3n3/LOaOhsgO",
+      "role": "patient",
+      "createdAt": "2026-02-28T04:08:47.947Z",
+      "profile": {}
+    },
+    {
+      "id": "mn3br2v1l6oofi8upjd",
+      "name": "Test User",
+      "email": "test@healthengine.com",
+      "password": "$2a$10$66WuSPl0RhzHFuLHEpkQGe9WyX8lgJMJfI3l60Vng1jKGoHMlgYwu",
+      "role": "patient",
+      "createdAt": "2026-03-23T15:12:21.565Z",
+      "profile": {}
+    }
+  ]
+}
